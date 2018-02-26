@@ -1,7 +1,10 @@
 ---
 layout: post
-title: You're up and !
+title: There is no life or family
 ---
+
+Everyone is up to me!
+A link to [KuPluT](http://kuplut.co.nf). A big ass literal link <http://github.com/guspan-tanadi>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
 
