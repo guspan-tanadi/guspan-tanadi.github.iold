@@ -1,15 +1,14 @@
 ---
 layout: page
-title: About
+title: Who
 permalink: /about/
 ---
 
-Some information about you!
+I like to think that contributing to Wikipedia is a must. Since internet is open for everyone. There are social media, porn effect, but when you realize it is open for say it as open source then let it go.
 
-### More Information
+There is no need to belittle in your ability.
 
-A place to include any other types of information that you'd like to include about yourself.
+More at [Wikipedia Bahasa Indonesia](https://id.wikipedia.org/wiki/Istimewa:Kontribusi_pengguna/Guspan_Tanadi).
 
-### Contact me
-
-[email@domain.com](mailto:email@domain.com)
+Sometimes at the [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Guspan_Tanadi
+) The Free Encyclopedia.
