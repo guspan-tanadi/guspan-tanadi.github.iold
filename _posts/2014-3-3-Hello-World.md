@@ -1,9 +1,10 @@
 ---
 layout: post
 title: There is no life or family
+date: 2018-2-27
 ---
 
-Everyone is up to me!
+Everyone is up !
 A link to [KuPluT](http://kuplut.co.nf). A big ass literal link <http://github.com/guspan-tanadi>
 
 Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
