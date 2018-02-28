@@ -8,8 +8,8 @@ Mengobrol perihal ini bukan dengan bahasa pemrograman.
 
 Sebuah sistem yang bisa berbicara dengan manusia terutama via teks melarikan pada sebuah istilah yaitu chatbot.
 
-Kadang disebut [Virtual Digital Assistant](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant
-) (VDA) atau _bot_. Chatbot bukan hal baru [1].
+Pula disebut [Virtual Digital Assistant](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant
+) (VDA) atau _bot_. Chatbot bukan hal baru [1: 1].
 
 Kebanyakan pengembang membangun chatbot dengan tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [2]
 
@@ -19,8 +19,7 @@ Karena sebagai sebuah simulasi maka tak ada penekanan terhadap chatbot harus mam
 
 Lagi chatbot mengenali setiap kalimat masukan dari pengguna bergantung pada apa yang telah ditanam atau menjadi pengetahuan chatbot.
 
-Proses ini sering dilihat sebagai [NLP](https://connect.aricent.com/2017/10/10-questions-answers-about-chatbots
-) (_Natural Language Processing_) yang berarti mengartikan kalimat masukan pengguna dengan tujuan menghasilkan tanggapan pada mereka.
+Proses ini sering dilihat sebagai [NLP](http://www.myreaders.info/10_Natural_Language_Processing.pdf) (_Natural Language Processing_) yang berarti mengartikan kalimat masukan pengguna dengan tujuan menghasilkan tanggapan pada mereka.
 
 NLU (_natural language understanding_) dan NLG (_natural language generation_) mereka ini cabang dari NLP.
 
@@ -36,6 +35,8 @@ Yang semua itu berakhir menampilkan jawaban atau tanggapan ke pengguna.
 
 Belakangan [tanggapan](https://www.telusinternational.com/media/10-Grammar-Rules-for-Chat-Agents_TELUS-Intl_v2015.pdf) yang tampil dari chatbot, bisa lebih dari satu.
 
-[1] Srikanth Machiraju & Ritesh Modi. (2018). _Developing Bots with Microsoft Bots Framework_. p. 1
-[2] <http://etheses.whiterose.ac.uk/1323/1/abushawar.pdf>
-[3] <http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf>
+[1] Srikanth Machiraju & Ritesh Modi. (2018). _Developing Bots with Microsoft Bots Framework_.
+
+[2] etheses.whiterose.ac.uk/1323/1/abushawar.pdf
+
+[3] www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf
