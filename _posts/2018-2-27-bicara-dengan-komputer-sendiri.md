@@ -39,6 +39,6 @@ Belakangan [tanggapan](https://www.telusinternational.com/media/10-Grammar-Rules
 
 [2] Srikanth Machiraju & Ritesh Modi. (2018). _Developing Bots with Microsoft Bots Framework_. hlm. 1
 
-[3] Abu Shawar, B. A. (2005). (_A corpus based approach to generalise a chatbot system_)[http://etheses.whiterose.ac.uk/1323/1/abushawar.pdf] (Doctoral dissertation, University of Leeds).
+[3] Abu Shawar, B. A. (2005). [_A corpus based approach to generalise a chatbot system_](http://etheses.whiterose.ac.uk/1323/1/abushawar.pdf) (Doctoral dissertation, University of Leeds).
 
-[4] Dahiya, M. (2017). (_A Tool of Conversation: Chatbot_)[http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf]. International Journal of Computer Sciences and Engineering, 5(5).
+[4] Dahiya, M. (2017). [_A Tool of Conversation: Chatbot_](http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf). International Journal of Computer Sciences and Engineering, 5(5).
