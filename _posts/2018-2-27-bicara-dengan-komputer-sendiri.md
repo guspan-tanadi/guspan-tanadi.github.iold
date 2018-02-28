@@ -6,14 +6,14 @@ date: 2018-2-27
 
 Mengobrol perihal ini bukan dengan bahasa pemrograman.
 
-Sebuah sistem yang bisa berbicara dengan manusia terutama via teks melarikan pada sebuah istilah yaitu chatbot.
+Sebuah sistem yang bisa berbicara dengan manusia terutama via teks [1] melarikan pada sebuah istilah yaitu chatbot.
 
 Pula disebut [Virtual Digital Assistant](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant
-) (VDA) atau _bot_. Chatbot bukan hal baru [1: 1].
+) (VDA) atau _bot_. Chatbot bukan hal baru [2].
 
-Kebanyakan pengembang membangun chatbot dengan tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [2]
+Kebanyakan pengembang membangun chatbot dengan tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [3]
 
-Chatbot mengacu pada _chatting robot_. Sebuah program komputer simulasi komunikasi. [3]
+Chatbot mengacu pada _chatting robot_. Sebuah program komputer simulasi komunikasi. [4]
 
 Karena sebagai sebuah simulasi maka tak ada penekanan terhadap chatbot harus mampu menjawab atau diuji sekumpulan pertanyaan (kuesioner) dari pengguna. Yang lebih perlu dilihat ialah teknik dari chatbot itu sendiri.
 
@@ -35,8 +35,10 @@ Yang semua itu berakhir menampilkan jawaban atau tanggapan ke pengguna.
 
 Belakangan [tanggapan](https://www.telusinternational.com/media/10-Grammar-Rules-for-Chat-Agents_TELUS-Intl_v2015.pdf) yang tampil dari chatbot, bisa lebih dari satu.
 
-[1] Srikanth Machiraju & Ritesh Modi. (2018). _Developing Bots with Microsoft Bots Framework_.
+[1] Rashid Khan & Anik Das. (2018). _Build Better Chatbots: A Complete Guide to Getting Started with Chatbots_. hlm. 1
 
-[2] etheses.whiterose.ac.uk/1323/1/abushawar.pdf
+[2] Srikanth Machiraju & Ritesh Modi. (2018). _Developing Bots with Microsoft Bots Framework_. hlm. 1
 
-[3] www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf
+[3] Abu Shawar, B. A. (2005). (_A corpus based approach to generalise a chatbot system_)[http://etheses.whiterose.ac.uk/1323/1/abushawar.pdf] (Doctoral dissertation, University of Leeds).
+
+[4] Dahiya, M. (2017). (_A Tool of Conversation: Chatbot_)[http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf]. International Journal of Computer Sciences and Engineering, 5(5).
