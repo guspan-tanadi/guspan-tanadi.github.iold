@@ -3,19 +3,19 @@ layout: post
 title: Mekanisme Chatbot Bahasa Indonesia | Seksi Kedua
 date: 2018-3-1
 ---
-Suatu kesenangan sendiri dalam menciptakan perangkat lunak yang mengadakan percakapan antara seorang pengguna dengan sebuah sistem dikenal dengan sebutan chatbot. Tanpa asosiasi atau menggunakan _platform_ luar.
+Suatu kesenangan sendiri dalam menciptakan perangkat lunak yang mengadakan percakapan antara seorang pengguna dengan sebuah sistem atau dikenal chatbot. Tanpa asosiasi atau menggunakan _platform_ luar.
 
-Di komponen utama chatbot yang mengolah dengan menerjemahkan masukan kalimat pengguna lalu menampilkan tanggapan kepada mereka. Ini berarti [NLP]({% post_url 2018-2-27-Mekanisme-Chatbot %}).
+Di komponen utama chatbot yang mengolah: mengartikan masukan kalimat pengguna lalu menampilkan tanggapan kepada mereka. Ini berarti [NLP]({% post_url 2018-2-27-Mekanisme-Chatbot %}).
 Salah satu dengan menerapkan _exact string matching_.
 
 Bahwa masalah dengan exact matching yang jadi komponen utama ini:
-Ada _incapacity_ dalam menangani maksud kalimat serupa yang masih dengan bentuk kata dan maksud yang sama hanya berbeda susunan kata.
+Ada _incapacity_ dalam menangani maksud kalimat serupa masih dalam bentuk kata dan maksud yang sama hanya berbeda susunan kata.
 
 Dan bahaya bila harus _exact_. Malah kebalikan.
-Chatbot harus mampu memperkirakan masukan kalimat pengguna tanpa perlu mengenalkan secara tegas kalimat tersebut ke dalam pengetahuan sistem atau chatbot.
+Chatbot harus mampu memperkirakan maksud kalimat pengguna tanpa perlu mengenalkan secara tegas kalimat tersebut ke pengetahuan chatbot.
 
 Salah satu contoh exact matching ialah _brute force_.
-Lihatlah sedikit perbandingan antara brute force dengan sebuah pendekatan lain yang disebut sebagai bag of words. Halaman dari [datatonic](http://blog.datatonic.com/2016/09/make-bots-great-again.html) membahas hal tersebut.
+Lihatlah sedikit perbandingan antara brute force dengan sebuah pendekatan lain yang disebut sebagai _bag of words_. Halaman dari [datatonic](http://blog.datatonic.com/2016/09/make-bots-great-again.html) membahas hal tersebut.
 
 Bag-of-words can be used to retrieve relevant document within an user query. (McTear et al, 2016).
 
