@@ -3,7 +3,7 @@ layout: post
 title: Mekanisme Chatbot Bahasa Indonesia
 date: 2018-2-27
 ---
-Ada sebuah sistem yang dapat berbicara dengan Anda. Terutama via teks.
+Ada sebuah [sistem]({% post_url bicara-dengan-komputer-sendiri %}) yang dapat berbicara dengan Anda. Terutama via teks.
 
 
 
