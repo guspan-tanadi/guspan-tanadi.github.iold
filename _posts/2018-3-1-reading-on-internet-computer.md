@@ -7,10 +7,10 @@ Just not think this will happen on mobile devices.
 
 Read the book without buying it. That it book must showing his Look inside on Amazon.
 
-It has preview on Google books, not just saying about the book.
+Another platform has preview on Google books, not just saying about the book.
 
-It can reading some page on book.
+It can read some page on book.
 
-Across ypur computer, while find then showing the preview. Open Inspect element or by press F12 by keyboard. Select tab Resources, take apart the branch to meet Images. On Google books it will name as content, content.png or content.jpg. These file will be many as you scrolling on.
+Across ypur computer, while find then showing the preview. Open Inspect element or press by hold ctrl then shift then i on keyboard. Select tab Resources, take apart its branch to meet Images. On Google books it will name as content, often content.png. These file will be many as you scrolling on.
 
 Just open the image then save to computer. Be careful, you get book.
