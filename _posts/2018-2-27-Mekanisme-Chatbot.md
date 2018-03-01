@@ -73,12 +73,16 @@ Tidak sebanding dengan kata kunci tadi. Mau berapa kali mesin chatbot dilatih?
 Dalam hal kalimat, punya bentuk kata dan maksud yang sama, hanya berbeda susunan atau urutan.
 
 Pathak menyadari,
-> 1,000 ways of asking the same thing
+> The developers do not have to train the service with all 1,000 ways of asking the same thing. Using its basic understanding of a language, the service can make smart guesses when it encounters a similar but unknown user query.(Pathak, 2017).
 
 Jelas saja, tidak perlu umpama menyimpan seribu kalimat yang masih menanyakan hal yang sama.
 
 Tapi ini perihal membangun chatbot dari nol from scratch tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan AIML.
 
-[1] 
+[1] http://uksim.info/isms2016/CD/data/0665a072.pdf
 
-[2] M. Gatti de Bayser, et al. [_A Hybrid Architecture for Multi-Party Conversational Systems_](https://arxiv.org/pdf/1705.01214). (2017). arXiv:1705.01214v2
+[2] M. Gatti de Bayser, et al. (2017). [_A Hybrid Architecture for Multi-Party Conversational Systems_](https://arxiv.org/pdf/1705.01214). arXiv:1705.01214v2
+
+Shawar, B. A. (2005). A corpus based approach to generalise a chatbot system (Doctoral dissertation, University of Leeds).
+
+Pathak, Nishith. (2017). _Artificial Intelligence for .NET: Speech, Language, and Search: Building Smart Applications with Microsoft Cognitive Services APIs_. hlm. 73
