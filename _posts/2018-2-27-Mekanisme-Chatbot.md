@@ -60,6 +60,8 @@ Awali dengan kalimat yang tadi: Kenapa kamu sendiri saja?
 
 Chatbot lebih dulu menyimpan kata yang punya arti signifikan dari contoh kalimat: kamu sendiri
 
+Berlangsung tanpa menetapkan _part of speech_.
+
 Saat kalimat yang harus persis seperti itu diberikan kepada sistem, maka sistem sudah mengerti lalu akan menjawab kalimat dengan membawa tanggapan sesuai kata kunci yang sebanding.
 
 
@@ -73,11 +75,11 @@ Tidak sebanding dengan kata kunci tadi. Mau berapa kali mesin chatbot dilatih?
 Dalam hal kalimat, punya bentuk kata dan maksud yang sama, hanya berbeda susunan atau urutan.
 
 Pathak menyadari,
-> The developers do not have to train the service with all 1,000 ways of asking the same thing. Using its basic understanding of a language, the service can make smart guesses when it encounters a similar but unknown user query.(Pathak, 2017).
+> The developers do not have to train the service with all 1,000 ways of asking the same thing. Using its basic understanding of a language, the service can make smart guesses when it encounters a similar but unknown user query. (Pathak, 2017).
 
 Jelas saja, tidak perlu umpama menyimpan seribu kalimat yang masih menanyakan hal yang sama.
 
-Tapi ini perihal membangun chatbot dari nol from scratch tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan AIML.
+Tapi ini perihal membangun chatbot dari nol from scratch tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan [AIML](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf).
 
 [1] http://uksim.info/isms2016/CD/data/0665a072.pdf
 
