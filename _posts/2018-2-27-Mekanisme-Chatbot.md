@@ -11,6 +11,7 @@ Ketik saja sebuah kalimat, sampaikan, maka akan muncul tanggapan dari sistem.
 
 Di era yang gelegak digital, chatbot: [kombinasi](http://www.ijcaonline.org/archives/volume173/number7/mehta-2017-ijca-915367.pdf) antara _messaging_ dan kecerdasan buatan.
 >An important component in developing chatbots is the way the chatbot analyses the input, and finds the best match from the stored knowledge (Shawar, 2005: 20).
+
 Bilang saja bahwa komponen utama pada chatbot tentu mesin chat yang dituntut agar mampu mengartikan kalimat masukan (_input_) lalu menyerahkan jawaban (_output_) pada pengguna. Sebuah [NLP](https://connect.aricent.com/2017/10/10-questions-answers-about-chatbots).
 
 Atau itu sama dengan sistem mengenali setiap kalimat pengguna berdasar pada pengetahuan yang sudah disusun. [1]
