@@ -79,11 +79,11 @@ Pathak menyadari,
 
 Jelas saja, tidak perlu umpama menyimpan seribu kalimat yang masih menanyakan hal yang sama.
 
-Tapi ini perihal membangun chatbot dari nol from scratch tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan [AIML](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf).
+Tapi ini perihal membangun chatbot dari nol _from scratch_ tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan [AIML](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf).
 
-[1] http://uksim.info/isms2016/CD/data/0665a072.pdf
+[1] Setiaji, B., & Wibowo, F. W. [_Chatbot Using A Knowledge in Database_](http://uksim.info/isms2016/CD/data/0665a072.pdf).
 
-[2] M. Gatti de Bayser, et al. (2017). [_A Hybrid Architecture for Multi-Party Conversational Systems_](https://arxiv.org/pdf/1705.01214). arXiv:1705.01214v2
+[2] M. Gatti de Bayser, et al. (2017). [_A Hybrid Architecture for Multi-Party Conversational Systems_](https://arxiv.org/pdf/1705.01214).
 
 Shawar, B. A. (2005). A corpus based approach to generalise a chatbot system (Doctoral dissertation, University of Leeds).
 
