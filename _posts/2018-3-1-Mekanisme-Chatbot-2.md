@@ -17,23 +17,26 @@ Chatbot harus mampu memperkirakan maksud kalimat pengguna tanpa perlu mengenalka
 Salah satu contoh exact matching ialah _brute force_.
 Lihatlah sedikit perbandingan antara brute force dengan sebuah pendekatan lain yang disebut sebagai _bag of words_. Halaman dari [datatonic](http://blog.datatonic.com/2016/09/make-bots-great-again.html) membahas hal tersebut.
 
-Bag-of-words can be used to retrieve relevant document within an user query. (McTear et al, 2016).
+Bag-of-words can be used to retrieve relevant document within an user query. (McTear _et al_., 2016).
 
 Bagaimana bag of words di komponen utama chatbot?
 
-Dengan kalimat: Kenapa kamu sendiri saja?
 
-Yang masih bentuk kata dan maksud serupa : kamu kenapa sendiri?
 
-There go just need one pattern or keyword. No need to train the chatbot again.
+Terhadap kalimat: Kenapa kamu sendiri saja? atau kalimat serupa: Kamu kenapa sendiri?
+
+Hanya perlu mengadakan satu kata kunci.
 
 Memang seperti berdampak pada chatbot menjadi tidak mampu membedakan konteks kalimat antara
-Saya makan malam
+Anjing mengejar orang
 dengan
-Malam makan saya
+Orang mengejar anjing
 
-Tapi kembali lagi, di contoh kali ini tidak ada pemakaian kelas atau jenis kata seperti Part of Speech karena [_error prone_](https://arxiv.org/pdf/1707.02919).
+Tapi kembali lagi, tidak ada pemakaian kelas atau jenis kata seperti pada _Part of Speech_ karena [_error prone_](https://arxiv.org/pdf/1707.02919).
 
-Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari sistem, bukan NLU. Yang mana,
-> NLU is an AI hard-problem. AI-Complete, AI hard-problem that it known as the most difficult problem in the field of artificial intelligence. (Pathak, 2017: 71).
-NLU dari teks ke arti, NLG kebalikan.
+Perihal menangani kata-kata umum dengan kata-kata yang jarang sebuah bentuk tf-idf.
+
+Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari sistem.
+
+Bag of words pada chatbot ini sebab,
+> Language modeling is regarded as a strong baseline for most NLP applications. (Hashemi _et al_., 2016).
