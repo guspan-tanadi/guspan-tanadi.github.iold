@@ -4,6 +4,8 @@ title: Who
 permalink: /about/
 ---
 
+### A volunteer
+
 I like to think that contributing to Wikipedia is a must. Since internet is open for everyone. There are social media, porn effect, but when you realize it is open for say it as open source then let it go.
 
 There is no need to belittle in your ability.
@@ -12,3 +14,9 @@ More at [Wikipedia Bahasa Indonesia](https://id.wikipedia.org/wiki/Istimewa:Kont
 
 Sometimes at the [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Guspan_Tanadi
 ) The Free Encyclopedia.
+
+A [list](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Directory/Description/WikiProject_Linguistics#Active_Subject-Area_Editors) include me on linguistic subject.
+
+### Robot
+
+They have become boss then will control you. Here is your dad or only you noticed. Odious life had no life.
