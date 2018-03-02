@@ -17,7 +17,7 @@ Chatbot harus mampu memperkirakan maksud kalimat pengguna tanpa perlu mengenalka
 Salah satu contoh exact matching ialah _brute force_.
 Lihatlah sedikit perbandingan antara brute force dengan sebuah pendekatan lain yang disebut sebagai _bag of words_. Halaman dari [datatonic](http://blog.datatonic.com/2016/09/make-bots-great-again.html) membahas hal tersebut.
 
-Bag-of-words can be used to retrieve relevant document within an user query. (McTear _et al_., 2016).
+> One application for conversational interfaces is in question answering, where the bag-of-words approach can be used to identify documents in which the answer to a user's question can be found (McTear _et al_., 2016).
 
 Bagaimana bag of words di komponen utama chatbot?
 
@@ -40,3 +40,7 @@ Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) ata
 
 Bag of words pada chatbot sebab,
 > Language modeling is regarded as a strong baseline for most NLP applications. (Hashemi _et al_., 2016).
+
+Hashemi _et al._ (2016). [_Query Intent Detection using Convolutional Neural Networks_](http://people.cs.pitt.edu/~hashemi/papers/QRUMS2016_HBHashemi.pdf).
+
+McTear, Michael.; Callejas, Zoraida.; Griol, David. (2016). _The Conversational Interface: Talking to Smart Devices_. hlm. 167
