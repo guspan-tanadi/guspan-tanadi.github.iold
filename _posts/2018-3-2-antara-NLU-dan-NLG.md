@@ -7,4 +7,6 @@ NLU (_natural language understanding_): informasi tidak terstruktur dari media s
 
 NLG (_natural language generation_): mengenalkan contoh kalimat ke dalam pengetahuan chatbot.
 
+NLU menangani teks ke arti, NLG kebalikan.
+
 Istilah lain yang berkenaan cabang pengolahan bahasa alami (_natural language processing_) ada pada _natural language inference_.
