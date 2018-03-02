@@ -15,8 +15,12 @@ More at [Wikipedia Bahasa Indonesia](https://id.wikipedia.org/wiki/Istimewa:Kont
 Sometimes at the [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions/Guspan_Tanadi
 ) The Free Encyclopedia.
 
-A [list](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Directory/Description/WikiProject_Linguistics#Active_Subject-Area_Editors) include me on linguistic subject.
+A [list](https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Directory/Description/WikiProject_Linguistics&oldid=828050802#Active_Subject-Area_Editors) include me on linguistic subject.
 
 ### Robot
 
 They have become boss then will control you. Here is your dad or only you noticed. Living in finding other people mistake.
+
+### Egoistically
+
+Every of us is.
