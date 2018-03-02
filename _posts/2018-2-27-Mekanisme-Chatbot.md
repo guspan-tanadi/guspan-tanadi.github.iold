@@ -36,7 +36,7 @@ Seperti di kanal [chatbots.org](https://www.chatbots.org/ai_zone/viewthread/3009
 
 Ambil sebuah contoh kalimat: Kenapa kamu sendiri saja?
 
-Contoh klasik dari chatbot _rule-based_ mencakup Eliza dan Parry. Eliza juga mencabut beberapa kata-kata dari kalimat dan lalu membuat kalimat lain dengan kata-kata ini. [2]
+Contoh klasik chatbot _rule-based_ mencakup Eliza dan Parry. Eliza juga mencabut beberapa kata-kata dari kalimat dan lalu membuat kalimat lain dengan kata-kata ini. [2]
 
 Kalimat lain atau sebagai kata kunci yang akan mewakili maksud contoh kalimat.
 
@@ -44,7 +44,7 @@ Hasil ekstraksi berupa kata kunci (_keyword_) ini akan disimpan atau menjadi pen
 
 Ketika sebuah kalimat masukan diberikan oleh pengguna.
 
-Kalimat ini akan dicari atau dibanding dengan semua kandidat berupa kata kunci tadi, mana yang paling sebanding terhadap teks kalimat sebagai dalih chatbot menampilkan jawaban.
+Kalimat ini akan dicari atau dibanding dengan semua kandidat berupa kata kunci tadi, mana yang paling sebanding terhadap kalimat teks sebagai dalih chatbot menampilkan jawaban.
 
 Menunjuk proses yang sebanding, maka jawaban atau tanggapan yang mengiringi _keyword_ tadi yang akan tampil.
 
@@ -66,13 +66,13 @@ Saat kalimat yang harus persis seperti itu diberikan kepada sistem, maka sistem 
 
 
 
-Ini masih kalimat dengan bentuk kata dan maksud sama: kamu kenapa sendiri ?
+Ini masih kalimat dengan bentuk kata dan maksud yang sama: kamu kenapa sendiri ?
 
 
 
 Tidak sebanding dengan kata kunci tadi. Mau berapa kali mesin chatbot dilatih?
 
-Dalam hal kalimat, punya bentuk kata dan maksud yang sama, hanya berbeda susunan atau urutan.
+Dalam hal kalimat, punya bentuk kata dan maksud serupa, hanya berbeda susunan atau urutan.
 
 Pathak menyadari,
 > The developers do not have to train the service with all 1,000 ways of asking the same thing. Using its basic understanding of a language, the service can make smart guesses when it encounters a similar but unknown user query. (Pathak, 2017).
