@@ -9,7 +9,7 @@ Di komponen utama chatbot yang mengolah: mengartikan masukan kalimat pengguna la
 Salah satu dengan menerapkan _exact string matching_.
 
 Bahwa masalah dengan exact matching yang jadi komponen utama ini:
-Ada _incapacity_ dalam menangani maksud kalimat serupa masih dalam bentuk kata dan maksud yang sama hanya berbeda susunan kata.
+Ada _incapacity_ pada menangani maksud kalimat serupa masih dalam bentuk kata dan maksud yang sama hanya berbeda susunan kata.
 
 Dan bahaya bila harus _exact_. Malah kebalikan.
 Chatbot harus mampu memperkirakan maksud kalimat pengguna tanpa perlu mengenalkan secara tegas kalimat tersebut ke pengetahuan chatbot.
@@ -21,22 +21,22 @@ Bag-of-words can be used to retrieve relevant document within an user query. (Mc
 
 Bagaimana bag of words di komponen utama chatbot?
 
-
+[Contoh penerapan](https://gist.github.com/guspan-tanadi/07310883a20745849f28da67316eb68f) bag-of-words chatbot bahasa Indonesia.
 
 Terhadap kalimat: Kenapa kamu sendiri saja? atau kalimat serupa: Kamu kenapa sendiri?
 
 Hanya perlu mengadakan satu kata kunci.
 
 Memang seperti berdampak pada chatbot menjadi tidak mampu membedakan konteks kalimat antara
-Anjing mengejar orang
+Anjing mengejar seorang
 dengan
-Orang mengejar anjing
+Seorang mengejar anjing
 
 Tapi kembali lagi, tidak ada pemakaian kelas atau jenis kata seperti pada _Part of Speech_ karena [_error prone_](https://arxiv.org/pdf/1707.02919).
 
-Perihal menangani kata-kata umum dengan kata-kata yang jarang sebuah bentuk tf-idf.
+Perihal menangani kata-kata umum dengan kata-kata yang jarang yakni sebuah tf-idf.
 
-Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari sistem.
+Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari chatbot.
 
-Bag of words pada chatbot ini sebab,
+Bag of words pada chatbot sebab,
 > Language modeling is regarded as a strong baseline for most NLP applications. (Hashemi _et al_., 2016).
