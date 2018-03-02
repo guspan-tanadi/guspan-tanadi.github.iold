@@ -19,27 +19,29 @@ Lihatlah sedikit perbandingan antara brute force dengan sebuah pendekatan lain y
 
 > One application for conversational interfaces is in question answering, where the bag-of-words approach can be used to identify documents in which the answer to a user's question can be found (McTear _et al_., 2016).
 
+Dalam hal ini, _document_ yang dimaksud yaitu pengetahuan chatbot.
+
 Bagaimana bag of words di komponen utama chatbot?
 
 [Contoh penerapan](https://gist.github.com/guspan-tanadi/07310883a20745849f28da67316eb68f) bag-of-words chatbot bahasa Indonesia.
 
 Terhadap kalimat: Kenapa kamu sendiri saja? atau kalimat serupa: Kamu kenapa sendiri?
 
-Hanya perlu mengadakan satu kata kunci.
+Hanya perlu mengadakan satu kata kunci (_keyword_).
 
 Memang seperti berdampak pada chatbot menjadi tidak mampu membedakan konteks kalimat antara
 Anjing mengejar seorang
 dengan
-Seorang mengejar anjing
+Seorang mengejar anjing.
 
 Tapi kembali lagi, tidak ada pemakaian kelas atau jenis kata seperti pada _Part of Speech_ karena [_error prone_](https://arxiv.org/pdf/1707.02919).
 
-Perihal menangani kata-kata umum dengan kata-kata yang jarang yakni sebuah tf-idf.
+Perihal menangani kata-kata umum dengan kata-kata yang jarang yakni sebuah _tf-idf_.
 
-Ini masih tetap NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari chatbot.
+Beginilah NLG yang memerhatikan struktur keruwetan keluaran (_output_) atau tanggapan dari chatbot.
 
 Bag of words pada chatbot sebab,
-> Language modeling is regarded as a strong baseline for most NLP applications. (Hashemi _et al_., 2016).
+> [Language modeling](https://en.wikipedia.org/wiki/Category:Language_modeling) is regarded as a strong baseline for most NLP applications (Hashemi _et al_., 2016).
 
 Hashemi _et al._ (2016). [_Query Intent Detection using Convolutional Neural Networks_](http://people.cs.pitt.edu/~hashemi/papers/QRUMS2016_HBHashemi.pdf).
 
