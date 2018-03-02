@@ -19,4 +19,4 @@ A [list](https://en.wikipedia.org/wiki/Wikipedia:WikiProject_Directory/Descripti
 
 ### Robot
 
-They have become boss then will control you. Here is your dad or only you noticed. Odious life had no life.
+They have become boss then will control you. Here is your dad or only you noticed. Living in finding other people mistake.
