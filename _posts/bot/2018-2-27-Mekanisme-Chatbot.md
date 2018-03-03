@@ -5,7 +5,7 @@ date: 2018-2-27
 ---
 Ada sebuah [sistem]({% post_url 2018-2-27-bicara-dengan-komputer-sendiri %}) yang dapat berbicara dengan Anda. Terutama via teks.
 
-![Ilustrasi Percakapan sistem dengan pengguna](/images/frontpost1.png)
+![Ilustrasi-Percakapan-sistem-dengan-pengguna](/images/frontpost1.png)
 
 Ketik saja sebuah kalimat, sampaikan, maka akan muncul tanggapan dari sistem.
 
