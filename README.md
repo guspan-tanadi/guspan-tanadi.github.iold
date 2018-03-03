@@ -1,1 +1,3 @@
-Jekyll Now blog Indonesian or English
+Some of thoughts.
+
+Chatbot thing reference in Indonesian.
