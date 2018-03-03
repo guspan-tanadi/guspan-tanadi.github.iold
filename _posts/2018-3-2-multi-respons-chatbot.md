@@ -7,6 +7,6 @@ Dokumen [TELUS International](https://www.telusinternational.com/media/10-Gramma
 
 Bukan sebuah kecurangan. Pengguna memang memberikan sebuah masukan pada chatbot, maka respons dari chatbot harus satu pula sesuai masukan pengguna yang hanya satu kali.
 
-Tanggapan ke dalam fragmen menjadi tanggapan lain. Agar teks lebih mudah dibaca dan dipahami.
+Tanggapan menjadi fragmen ke tanggapan lain. Agar teks lebih mudah dibaca dan dipahami oleh pengguna.
 
 Jawaban atas chatbot akan lebih dari satu.

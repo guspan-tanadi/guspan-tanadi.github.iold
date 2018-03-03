@@ -21,11 +21,11 @@ Do like [this page](https://help.github.com/articles/adding-a-new-ssh-key-to-you
 
 Example output or result in doing git push command.
 
-Counting objects: 4, done.
-Delta compression using up to 2 threads.
-Compressing objects: 100% (4/4), done.
-Writing objects: 100% (4/4), 419 bytes | 0 bytes/s, done.
-Total 4 (delta 3), reused 0 (delta 0)
-remote: Resolving deltas: 100% (3/3), completed with 3 local objects.
-To github.com:username/repositoryname.git
+Counting objects: 4, done.  
+Delta compression using up to 2 threads.  
+Compressing objects: 100% (4/4), done.  
+Writing objects: 100% (4/4), 419 bytes | 0 bytes/s, done.  
+Total 4 (delta 3), reused 0 (delta 0)  
+remote: Resolving deltas: 100% (3/3), completed with 3 local objects.  
+To github.com:username/repositoryname.git  
    2d96b5d..97aba66  master -> master
