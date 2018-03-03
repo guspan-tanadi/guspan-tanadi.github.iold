@@ -1,6 +1,6 @@
 ---
 layout: post
-title: git push this Case
+title: git push This Case
 date: 2018-3-3
 ---
 To update this page or include any image for some post by the use of git push.
@@ -11,7 +11,7 @@ While github pages fail to build, check your email.
 
 But to keep the git push from happening by SSH not HTTPS. Although there are saying that [HTTPS](https://help.github.com/articles/set-up-git) is recommended.
 
-To get SSH key not from Bash clip command, instead from Git GUI.
+To get SSH key not from Bash clip command, instead from Git GUI program.
 
 From the Git GUI > Help > Show SSH Key
 
