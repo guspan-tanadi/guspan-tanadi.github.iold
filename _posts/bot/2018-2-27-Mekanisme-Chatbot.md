@@ -48,7 +48,7 @@ Kalimat ini akan dicari atau dibanding dengan semua kandidat berupa kata kunci t
 
 Menunjuk proses yang sebanding, maka jawaban atau tanggapan yang mengiringi _keyword_ tadi yang akan tampil.
 
-
+![Contoh Tanggapan](hire.png)
 
 Proses perbandingan ini punya macam variasi.
 
@@ -64,11 +64,11 @@ Berlangsung tanpa menetapkan _part of speech_.
 
 Saat kalimat yang harus persis seperti itu diberikan kepada sistem, maka sistem sudah mengerti lalu akan menjawab kalimat dengan membawa tanggapan sesuai kata kunci yang sebanding.
 
-
+![Sebanding dengan kalimat pertanyaan](/images/matchexample.png)
 
 Ini masih kalimat dengan bentuk kata dan maksud yang sama: kamu kenapa sendiri ?
 
-
+![Apa perlu gaya perbandingan harus _exact_?](/images/notmatch.png)
 
 Tidak sebanding dengan kata kunci tadi. Mau berapa kali mesin chatbot dilatih?
 
