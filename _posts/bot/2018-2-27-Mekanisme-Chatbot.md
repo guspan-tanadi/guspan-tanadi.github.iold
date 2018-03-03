@@ -48,7 +48,7 @@ Kalimat ini akan dicari atau dibanding dengan semua kandidat berupa kata kunci t
 
 Menunjuk proses yang sebanding, maka jawaban atau tanggapan yang mengiringi _keyword_ tadi yang akan tampil.
 
-![Contoh Tanggapan](hire.png)
+![Contoh Tanggapan](/images/hire.png)
 
 Proses perbandingan ini punya macam variasi.
 
