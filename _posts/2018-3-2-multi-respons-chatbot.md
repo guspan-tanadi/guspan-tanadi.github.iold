@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Tanggapan Chatbot yang Lebih dari Satu Kali
+title: Tanggapan Chatbot berurutan lebih dari Satu Kali
 date: 2018-3-2
 ---
-Dokumen [TELUS International](https://www.telusinternational.com/media/10-Grammar-Rules-for-Chat-Agents_TELUS-Intl_v2015.pdf) terdapat gagasan tentang tanggapan chatbot yang dapat tampil lebih dari satu kali.
+Dokumen [TELUS International](https://www.telusinternational.com/media/10-Grammar-Rules-for-Chat-Agents_TELUS-Intl_v2015.pdf) terdapat gagasan tentang tanggapan chatbot yang dapat tampil secara berurutan lebih dari satu kali.
 
 Bukan sebuah kecurangan. Pengguna memang memberikan sebuah masukan pada chatbot, maka respons dari chatbot harus satu pula sesuai masukan pengguna yang hanya satu kali.
 
