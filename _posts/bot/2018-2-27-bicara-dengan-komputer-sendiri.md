@@ -33,7 +33,7 @@ Chatbot dengan rancangan sendiri kebanyakan mengenakan NLG. Sebab akan merumuska
 
 Yang semua itu berakhir menampilkan jawaban atau tanggapan ke pengguna.
 
-Belakangan [tanggapan](https://www.telusinternational.com/media/10-Grammar-Rules-for-Chat-Agents_TELUS-Intl_v2015.pdf) yang tampil dari chatbot, bisa lebih dari satu.
+Belakangan [tanggapan]({% post_url 2018-3-2-multi-respons-chatbot %}) yang tampil dari chatbot, bisa lebih dari satu.
 
 [1] Rashid Khan & Anik Das. (2018). _Build Better Chatbots: A Complete Guide to Getting Started with Chatbots_. hlm. 1
 
