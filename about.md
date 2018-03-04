@@ -23,4 +23,4 @@ They have become boss then will control you. Here is your dad or only you notice
 
 ### Egoistically
 
-Every of us is.
+Everyone is individualist.
