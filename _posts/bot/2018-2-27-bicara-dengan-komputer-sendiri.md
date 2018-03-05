@@ -9,7 +9,7 @@ Mengobrol perihal ini bukan dengan bahasa pemrograman.
 Sebuah sistem yang bisa berbicara dengan manusia terutama via teks [1] melarikan pada sebuah istilah yaitu chatbot.
 
 Pula disebut [Virtual Digital Assistant](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant
-) (VDA) atau _bot_. Chatbot bukan hal baru [2].
+) (VDA) atau _bot_. Chatbot bukan hal baru namun apa yang membuat generasi _bot_ terlihat spesial ialah integrasi mereka dengan kecerdasan buatan [2].
 
 Kebanyakan pengembang membangun chatbot dengan tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [3]
 
@@ -25,9 +25,9 @@ NLU (_natural language understanding_) dan NLG (_natural language generation_) m
 
 NLU lebih di atas dari NLG, karena NLU menjadikan media sosial atau teks dari sebuah halaman sebagai pengetahuan chatbot.
 
-Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau bahasa sehari-hari (_natural language_), muatan teks dari media sosial sebagai bagian dari bahasa alami.
+Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau bahasa sehari-hari (_natural language_), muatan teks dari media sosial selain data dinamis sebagai bagian dari bahasa alami.
 
-[NLU](https://thesai.org/Downloads/Volume7No11/Paper_19-Applying_Chatbots_to_the_Internet_of_Things.pdf) bertanggung jawab menerjemahkan bahasa alami ke dalam aksi yang bisa dimengerti mesin.
+NLU bertanggung jawab menerjemahkan bahasa alami ke dalam aksi yang bisa dimengerti mesin. [5]
 
 Chatbot dengan rancangan sendiri kebanyakan mengenakan NLG. Sebab akan merumuskan contoh kalimat ke pola atau kata kunci tertentu sebagai pengenalan kalimat dalam pengetahuan chatbot.
 
@@ -42,3 +42,5 @@ Belakangan [tanggapan]({% post_url 2018-3-2-multi-respons-chatbot %}) yang tampi
 [3] Abu Shawar, B. A. (2005). [_A corpus based approach to generalise a chatbot system_](http://etheses.whiterose.ac.uk/1323/1/abushawar.pdf) (Doctoral dissertation, University of Leeds).
 
 [4] Dahiya, M. (2017). [_A Tool of Conversation: Chatbot_](http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf). International Journal of Computer Sciences and Engineering, 5(5).
+
+[5] Kar, R. & Haldar, R. (2016). [_Applying Chatbots to the Internet of Things: Opportunities and Architectural Elements_](https://thesai.org/Downloads/Volume7No11/Paper_19-Applying_Chatbots_to_the_Internet_of_Things.pdf). (IJACSA) International Journal of Advanced Computer Science and Applications, Vol. 7, No. 11

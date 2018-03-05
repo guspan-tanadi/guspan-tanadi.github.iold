@@ -31,7 +31,7 @@ Measure the similarity of word or string
 the smallest distance the correct word is. Still word dictionary based. The challenge to time access and  more on less space.
 
 Note that it just not wise if the mistaken word can be considered as one distance but then create or save any record only for it.
-
+Credit to split row https://stackoverflow.com/a/19073575/5315239
 Can also limit the distancing as 1 distance.
 
 Since 80% can be handled allowing one operation of four: they are deletion, insertion, replacement and transposition.
