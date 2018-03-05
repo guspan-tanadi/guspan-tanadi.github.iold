@@ -8,8 +8,7 @@ Mengobrol perihal ini bukan dengan bahasa pemrograman.
 
 Sebuah sistem yang bisa berbicara dengan manusia terutama via teks [1] melarikan pada sebuah istilah yaitu chatbot.
 
-Pula disebut [Virtual Digital Assistant](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant
-) (VDA) atau _bot_. Chatbot bukan hal baru namun apa yang membuat generasi _bot_ terlihat spesial ialah integrasi mereka dengan kecerdasan buatan [2].
+Pula disebut Virtual Digital Assistant ([VDA](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant)) atau _bot_. Chatbot bukan hal baru namun apa yang membuat generasi baru _bot_ terlihat spesial ialah integrasi mereka dengan kecerdasan buatan [2].
 
 Kebanyakan pengembang membangun chatbot dengan tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [3]
 
