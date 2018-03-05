@@ -20,6 +20,8 @@ Lagi chatbot mengenali setiap kalimat masukan dari pengguna bergantung pada apa 
 
 Proses ini sering dilihat sebagai [NLP](http://www.myreaders.info/10_Natural_Language_Processing.pdf) (_Natural Language Processing_) yang berarti mengartikan kalimat masukan pengguna dengan tujuan menghasilkan tanggapan pada mereka.
 
+![Cabang NLP](/images/nlgnlu1.png "Bagian NLP")
+
 NLU (_natural language understanding_) dan NLG (_natural language generation_) mereka ini cabang dari NLP.
 
 NLU lebih di atas dari NLG, karena NLU menjadikan media sosial atau teks dari sebuah halaman sebagai pengetahuan chatbot.
