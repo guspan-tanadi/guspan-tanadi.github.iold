@@ -3,7 +3,7 @@ layout: post
 title: Menangani Salah Ketik di Chatbot Bahasa Indonesia
 date: 2018-3-2
 ---
-That the typo simply called as misspelling.
+Typo simply called as misspelling.
 
 While that the chatbot is combining messaging and AI.
 
@@ -43,3 +43,13 @@ Although on a research Jaro-Winkler take being the better. Since chatbot is abou
 
 As Wikipedia says here on Damerau-Levenshtein topic.
 Damerau-Levenshtein plays an important role on natural language. In natural language string are short and the number misspelling rarely exceed 2.
+
+Bhatti _et al_. (2012). Spelling Error Trends and Patterns in Sindhi.
+
+Min _et al_. (2000). Typographical and Orthographical Spelling Error Correction.
+
+van Berkel, Brigitte & Koenraad De Smedt. (1988). Triphone Analysis: A Combined Method For The Correction Of ORTHOGRAPHICAL and TYPOGRAPHICAL Errors. Proc. of the Second Conference on Applied Natural Language Processing, Austin TX, 9-12 Feb. 1988 (pp. 77-83).
+
+Kukich, Karen. (1992). Techniques for Automatically Correcting Words in Text. ACM Computing Surveys, Vol. 24, No. 4, December 1992.
+
+OMID KASHEFI, MOHSEN SHARIFI and BEHROOZ MINAIE (2013). A novel string distance metric for ranking Persian respelling suggestions. Natural Language Engineering, 19, pp 259-284
