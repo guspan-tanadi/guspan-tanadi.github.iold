@@ -8,7 +8,11 @@ Mengobrol perihal ini bukan dengan bahasa pemrograman.
 
 Sebuah sistem yang bisa berbicara dengan manusia terutama via teks [1] melarikan pada sebuah istilah yaitu chatbot.
 
-Pula disebut Virtual Digital Assistant ([VDA](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant)) atau _bot_. Chatbot bukan hal baru namun apa yang membuat generasi baru _bot_ terlihat spesial ialah integrasi mereka dengan kecerdasan buatan [2].
+Pula disebut Virtual Digital Assistant ([VDA](https://www.inbenta.com/en/blog/difference-chatbot-virtual-assistant)) atau _bot_.
+
+_Bot_ lebih pandai dibanding aplikasi mobile; pada beberapa kasus bisa lebih pandai dari Anda.
+Chatbot bukan hal baru namun apa yang membuat generasi baru _bot_ spesial ialah integrasi
+mereka dengan kecerdasan buatan. [2]
 
 Kebanyakan pengembang membangun chatbot pada tujuan mengelabui bahwa pengguna sedang berbicara dengan manusia nyata. Hingga kini kebanyakan chatbot melayani sebagai alat memikat melalui _chatting_ dengan sebuah _robot_. [3]
 
@@ -18,17 +22,19 @@ Karena sebagai sebuah simulasi maka tak ada penekanan terhadap chatbot harus mam
 
 Lagi chatbot mengenali setiap kalimat masukan dari pengguna bergantung pada apa yang telah ditanam atau menjadi pengetahuan chatbot.
 
+Kebanyakan chatbot baru saja menggunakan isi sosial media untuk basis data mereka. [5]
+
 Proses ini sering dilihat sebagai [NLP](http://www.myreaders.info/10_Natural_Language_Processing.pdf) (_Natural Language Processing_) yang berarti mengartikan kalimat masukan pengguna dengan tujuan menghasilkan tanggapan pada mereka.
 
-![Cabang NLP](/images/nlgnlu1.png "Bagian NLP")
+![Perhatian NLG dan NLU](/images/nlgnlu1.png "Cabang NLP")
 
 NLU (_natural language understanding_) dan NLG (_natural language generation_) mereka ini cabang dari NLP.
 
 NLU lebih di atas dari NLG, karena NLU menjadikan media sosial atau teks dari sebuah halaman sebagai pengetahuan chatbot.
 
-Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau bahasa sehari-hari (_natural language_), muatan teks dari media sosial selain data dinamis sebagai bagian dari bahasa alami.
+Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau bahasa sehari-hari (_natural language_), muatan teks dari media sosial selain data yang dinamis sebagai bagian dari bahasa alami.
 
-NLU bertanggung jawab menerjemahkan bahasa alami ke dalam aksi yang bisa dimengerti mesin. [5]
+NLU bertanggung jawab menerjemahkan bahasa alami ke dalam aksi yang bisa dimengerti mesin. [6]
 
 Chatbot dengan rancangan sendiri kebanyakan mengenakan NLG. Sebab akan merumuskan contoh kalimat ke pola atau kata kunci tertentu sebagai pengenalan kalimat dalam pengetahuan chatbot.
 
@@ -44,4 +50,6 @@ Belakangan [tanggapan]({% post_url 2018-3-2-multi-respons-chatbot %}) yang tampi
 
 [4] Dahiya, M. (2017). [_A Tool of Conversation: Chatbot_](http://www.ijcseonline.org/pub_paper/27-IJCSE-02149.pdf). International Journal of Computer Sciences and Engineering, 5(5).
 
-[5] Kar, R. & Haldar, R. (2016). [_Applying Chatbots to the Internet of Things: Opportunities and Architectural Elements_](https://thesai.org/Downloads/Volume7No11/Paper_19-Applying_Chatbots_to_the_Internet_of_Things.pdf). (IJACSA) International Journal of Advanced Computer Science and Applications, Vol. 7, No. 11
+[5] Mehta, Y. & Sawkar, S. (2017). _The College Chatbot_. International Journal of Computer Applications (0975 – 8887) Volume 173 – No.7, September 2017
+
+[6] Kar, R. & Haldar, R. (2016). [_Applying Chatbots to the Internet of Things: Opportunities and Architectural Elements_](https://thesai.org/Downloads/Volume7No11/Paper_19-Applying_Chatbots_to_the_Internet_of_Things.pdf). (IJACSA) International Journal of Advanced Computer Science and Applications, Vol. 7, No. 11

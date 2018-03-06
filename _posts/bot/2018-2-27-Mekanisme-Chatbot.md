@@ -77,7 +77,7 @@ Dalam hal kalimat, punya bentuk kata dan maksud serupa, hanya berbeda susunan at
 Pathak menyadari,
 > The developers do not have to train the service with all 1,000 ways of asking the same thing. Using its basic understanding of a language, the service can make smart guesses when it encounters a similar but unknown user query. (Pathak, 2017).
 
-Jelas saja, tidak perlu umpama menyimpan seribu kalimat yang masih menanyakan hal yang sama.
+Jelas saja, tidak perlu umpama melatih layanan chatbot dengan semua seribu kalimat yang masih menanyakan hal yang sama.
 
 Tapi ini perihal membangun chatbot dari nol _from scratch_ tidak dengan perantara asosiasi seperti Microsoft LUIS atau Facebook Messager. Tidak pula dibangun menggunakan [AIML](https://thesai.org/Downloads/Volume6No7/Paper_12-Survey_on_Chatbot_Design_Techniques_in_Speech_Conversation_Systems.pdf).
 
