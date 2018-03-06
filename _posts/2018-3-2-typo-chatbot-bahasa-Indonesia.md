@@ -2,6 +2,7 @@
 layout: post
 title: Menangani Salah Ketik di Chatbot Bahasa Indonesia
 date: 2018-3-2
+published: false
 ---
 Typo simply called as misspelling.
 
