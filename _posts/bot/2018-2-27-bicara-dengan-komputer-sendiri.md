@@ -30,7 +30,7 @@ Proses ini sering dilihat sebagai [NLP](http://www.myreaders.info/10_Natural_Lan
 
 NLU (_natural language understanding_) dan NLG (_natural language generation_) mereka ini cabang dari NLP.
 
-NLU lebih di [atas]({% post_url 2018-3-2-antara-NLU-dan-NLG %}) dari NLG, karena NLU menjadikan sosial media atau teks dari sebuah halaman sebagai pengetahuan chatbot.
+NLU lebih di atas dari NLG, [karena]({% post_url 2018-3-2-antara-NLU-dan-NLG %}) NLU menjadikan sosial media atau teks dari sebuah halaman sebagai pengetahuan chatbot.
 
 Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau bahasa sehari-hari (_natural language_), muatan teks dari sosial media selain data yang dinamis sebagai bagian dari bahasa alami.
 
