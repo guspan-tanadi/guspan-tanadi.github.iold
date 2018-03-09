@@ -11,7 +11,7 @@ Salah satu dengan menerapkan _exact string matching_.
 Bahwa masalah dengan exact matching yang jadi komponen utama ini:
 Ada _incapacity_ pada menangani maksud kalimat serupa masih dalam bentuk kata dan maksud yang sama hanya berbeda susunan kata.
 
-Dan bahaya bila harus _exact_. Malah kebalikan.
+Dan bahaya bila harus _exact_ atau [_precise_](http://www.iamwire.com/2017/08/chatbots-customer-intent/156451). Malah kebalikan.
 Chatbot harus mampu memperkirakan maksud kalimat pengguna tanpa perlu mengenalkan secara tegas kalimat tersebut ke pengetahuan chatbot.
 
 Salah satu contoh exact matching ialah _brute force_.
