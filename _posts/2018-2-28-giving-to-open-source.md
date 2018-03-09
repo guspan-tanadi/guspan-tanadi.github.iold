@@ -8,3 +8,5 @@ At the first i meet [Why do you contribute to open source](http://www.yegor256.c
 Where to contribute? What it meant to be open source? Since Internet is open whomever. There are only bad or good thing.
 
 The title of the post could become [Why do people contribute to Wikipedia](http://wikipediocracy.com/2015/10/27/why-do-people-contribute-to-wikipedia). Will have a platform.
+
+The next is of course Github, which is not catch for me now.
