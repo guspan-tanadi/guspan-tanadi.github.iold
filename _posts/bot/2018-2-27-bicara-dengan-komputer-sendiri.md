@@ -36,7 +36,7 @@ Selama masukan kalimat pertanyaan dari pengguna dalam wujud bahasa alami atau ba
 
 NLU bertanggung jawab menerjemahkan bahasa alami ke dalam aksi yang bisa dimengerti mesin. [6]
 
-Chatbot dengan rancangan sendiri kebanyakan mengenakan NLG. Sebab akan merumuskan contoh kalimat ke pola atau kata kunci tertentu sebagai pengenalan kalimat dalam pengetahuan chatbot.
+Chatbot pada komponen NLG lebih sederhana namun kurang variasi. Contoh: chatbot _rule based_ yang merumuskan contoh kalimat menjadi kata kunci (_keyword_) atau _pattern_ ke dalam pengetahuan _bot_.
 
 Yang semua itu berakhir menampilkan jawaban atau tanggapan ke pengguna.
 

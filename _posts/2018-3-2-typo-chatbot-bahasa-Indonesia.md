@@ -5,22 +5,28 @@ date: 2018-3-2
 published: false
 ---
 Typo simply called as misspelling.
+Kesalahan ketik (_typing error_ atau _typo_) dan kesalahan ejaan (_spelling error_)
+secara sederhana disebut _spelling error_. [1]
 
 While that the chatbot is combining messaging and AI.
+Selama diketahui chatbot [kombinasi]({% post_url 2018-2-27-Mekanisme-Chatbot %}) antara
+pesan instan dan kecerdasan buatan.
 
 Many people take less care the right spell of a word these day. (Sapul, 2016).
+Pengaruh teknologi teks 
 
 There will be another rule on chatbot to handle any misspelling case. (Nawaf Ali, 2014: 00).
 
 But it would be user satisfying (TELUS International, 2015)
 since not pretend to be human. (Tiwari et al, 2017)
 
-To detect spelling case in indonesian word by using Soundex.
+To detect spelling case in Indonesian word by using Soundex.
 It will keep the first letter, so the mistaken of the word depend on first letter.
+Contradict to Kukich statement, while few error from the first letter.
 
-Just handle some like
-tjuan
-tjn
+Just handle some like  
+tjuan  
+tjn  
 Can be known as tujuan.
 
 The Soundex can achieved by the use of sql query. It has implemented as function. Soundex() different with sounds like query.
