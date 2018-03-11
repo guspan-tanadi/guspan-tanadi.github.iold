@@ -13,7 +13,9 @@ Selama diketahui chatbot [kombinasi]({% post_url 2018-2-27-Mekanisme-Chatbot %})
 pesan instan dan kecerdasan buatan.
 
 Many people take less care the right spell of a word these day. (Sapul, 2016).
-Pengaruh teknologi teks 
+Pengaruh teknologi teks seperti layanan IM [_Instant Messaging_] dan jejaring sosial
+membuat banyak orang cenderung melupakan bentuk yang tepat dari sebuah kata.
+Dan banyak orang menaruh sedikit perhatian kepada ejaan yang benar. [2]
 
 There will be another rule on chatbot to handle any misspelling case. (Nawaf Ali, 2014: 00).
 
@@ -38,7 +40,7 @@ Measure the similarity of word or string
 the smallest distance the correct word is. Still word dictionary based. The challenge to time access and  more on less space.
 
 Note that it just not wise if the mistaken word can be considered as one distance but then create or save any record only for it.
-Credit to split row https://stackoverflow.com/a/19073575/5315239
+Credit to split row https://stackoverflow.com/a/19073575/5315239  
 Can also limit the distancing as 1 distance.
 
 Since 80% can be handled allowing one operation of four: they are deletion, insertion, replacement and transposition.
