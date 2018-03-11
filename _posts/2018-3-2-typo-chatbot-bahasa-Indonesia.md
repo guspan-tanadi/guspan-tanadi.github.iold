@@ -17,7 +17,10 @@ Pengaruh teknologi teks seperti layanan IM [_Instant Messaging_] dan jejaring so
 membuat banyak orang cenderung melupakan bentuk yang tepat dari sebuah kata.
 Dan banyak orang menaruh sedikit perhatian kepada ejaan yang benar. [2]
 
-There will be another rule on chatbot to handle any misspelling case. (Nawaf Ali, 2014: 00).
+There will be another rule on chatbot to handle any misspelling case. (Nawaf Ali, 2014: 13).
+> Chat bots responses are coming from artificially intelligent knowledge base that has rules,
+so the chance for a chat bot to present a misspelled word is close to none,
+unless the chat bot programmer did add them intentionally.
 
 But it would be user satisfying (TELUS International, 2015)
 since not pretend to be human. (Tiwari et al, 2017)
