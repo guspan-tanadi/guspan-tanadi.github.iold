@@ -12,7 +12,10 @@ The book say that: It is good to be idle.
 
 _The Spiritual Battle with the Mind_  
 p. 111 The Danger of Staying in The Box  
-After reading this, would go to Preface by _Idle_ book.
+After this, would go to Preface by _Idle_ book.
 
 _Optimizing the Self: Social Representations of Self-help_ Ole Jacob Madsen  
 Talk on Self-leadership
+
+_Why We Talk The Truth Behind Word-of-mouth_  
+PART II THE FORCES BEHIND TALK p. 12.
