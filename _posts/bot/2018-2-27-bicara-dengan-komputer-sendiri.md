@@ -20,6 +20,9 @@ Chatbot mengacu pada _chatting robot_. Sebuah program komputer simulasi komunika
 
 Karena sebagai sebuah simulasi maka tak ada penekanan terhadap chatbot harus mampu menjawab atau diuji sekumpulan pertanyaan (kuesioner) dari pengguna. Yang lebih perlu dilihat ialah teknik dari chatbot itu sendiri.
 
+Atau sebab berada pada [kawasan](https://arxiv.org/pdf/1101.0891) yang memusatkan prakiraan empiris bukan
+statistik.
+
 Lagi chatbot mengenali setiap kalimat masukan dari pengguna bergantung pada apa yang telah ditanam atau menjadi pengetahuan chatbot.
 
 Kebanyakan chatbot baru saja menggunakan isi sosial media untuk basis data mereka. [5]
