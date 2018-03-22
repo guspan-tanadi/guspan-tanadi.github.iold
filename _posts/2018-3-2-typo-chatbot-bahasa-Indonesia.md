@@ -20,10 +20,11 @@ Dan banyak orang menaruh sedikit perhatian kepada ejaan yang benar. [2]
 There will be another rule on chatbot to handle any misspelling case. (Nawaf Ali, 2014: 13).
 > Chat bots responses are coming from artificially intelligent knowledge base that has rules,
 so the chance for a chat bot to present a misspelled word is close to none,
-unless the chat bot programmer did add them intentionally.
+unless the chat bot programmer did add them intentionally (Nawaf Ali, 2014: 13).
 
-But it would be user satisfying (TELUS International, 2015)
-since not pretend to be human. (Tiwari et al, 2017)
+Since not pretend to be human (Tiwari et al, 2017).
+
+The correct word can same misused as misspelled.
 
 To detect spelling case in Indonesian word by using Soundex.
 It will keep the first letter, so the mistaken of the word depend on first letter.
@@ -32,7 +33,7 @@ Contradict to Kukich statement, while few error from the first letter.
 Just handle some like  
 tjuan  
 tjn  
-Can be known as tujuan.
+Could be known as tujuan.
 
 The Soundex can achieved by the use of sql query. It has implemented as function. Soundex() different with sounds like query.
 
