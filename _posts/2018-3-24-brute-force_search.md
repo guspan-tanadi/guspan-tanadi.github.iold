@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Brute-force search algorithm
+title: Brute-force searching algorithm
 date: 2018-3-24
 ---
 Call it [naive search](https://www.geeksforgeeks.org/searching-for-patterns-set-1-naive-pattern-searching/).
