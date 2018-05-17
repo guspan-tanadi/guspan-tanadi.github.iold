@@ -9,11 +9,13 @@ The project place on File System > var > www
 Create a folder there.  
 For connection to mysql database file.  
 config/hub.php  
+{% highlight php %}
 <?php  
 $hub = new PDO('mysql:host=localhost;
 dbname=note7;charset=utf8;',
 'root', 'thepswrd');  
-?>  
+?>
+{% endhighlight %}
 Database name is note7 you need to create it on mysql before.  
 Write the host as localhost not 127.0.0.1  
 To add or insert data using prepared statement.  
