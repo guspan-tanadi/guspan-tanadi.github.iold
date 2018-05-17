@@ -23,5 +23,12 @@ For each file permission the Access will be
 Read-only  
 Read-only
 
-Then access via localhost it will be success.
-Otherwise, the mistaken in the CMS case.
+Then it can be access via localhost.
+Otherwise, the mistaken on the CMS the system itself.
+
+For example, if there are .htaccess make sure
+the file there and can be used.
+
+In my case the .htaccess created later on Windows,
+the file has not shown on Ubuntu. But on Windows
+still exist.
