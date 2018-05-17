@@ -38,16 +38,17 @@ include "config/hub.php";
 $q = $hub->query("select * from notes");  
 
 foreach($q as $r){ ?>  
+
 {% highlight html %}
 <p>
-{% endhighlight %}
 <?php echo nl2br( $r['content'] ); ?>
-{% highlight html %}
 </p>
-{% endhighlight %}
+{% endhighlight %}  
+
 <?php  
 }  
 ?>  
+
 {% highlight html %}
 <form method='POST' action='op/add.php'>  
 	<textarea name='text'></textarea>  
