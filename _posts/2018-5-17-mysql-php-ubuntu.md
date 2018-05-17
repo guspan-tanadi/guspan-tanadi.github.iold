@@ -37,19 +37,17 @@ index.php
 include "config/hub.php";  
 $q = $hub->query("select * from notes");  
 
+{% highlight html %}
 foreach($q as $r){ ?>  
 
-{% highlight html %}
 <p>
 <?php echo nl2br( $r['content'] ); ?>
 </p>
-{% endhighlight %}  
 
 <?php  
 }  
 ?>  
 
-{% highlight html %}
 <form method='POST' action='op/add.php'>  
 	<textarea name='text'></textarea>  
 	<input type='submit'>  
