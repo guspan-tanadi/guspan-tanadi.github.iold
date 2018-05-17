@@ -15,7 +15,7 @@ If you access via localhost it would say Forbidden.
 To make it accessible you need to change Properties
 of the folder and it files inside.
 
-For the folder permission the folder access will be  
+For the folder permission the Folder access will be  
 Access files  
 Access files
 
