@@ -12,7 +12,7 @@ config/hub.php
 <?php  
 $hub = new PDO('mysql:host=localhost;
 dbname=note7;charset=utf8;',
-'root', 'thepswrd');
+'root', 'thepswrd');  
 ?>  
 Database name is note7 you need to create it on mysql before.  
 Write the host as localhost not 127.0.0.1  
