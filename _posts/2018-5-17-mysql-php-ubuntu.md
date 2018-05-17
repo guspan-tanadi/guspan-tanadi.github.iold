@@ -34,25 +34,25 @@ header("Location:/opnote/");
 ?>  
 The table inside note7 is notes. The fields are kd as int primary key auto_increment and content as text. It is wise if you want to add timestamp field.  
 Showing data and the form.  
-index.php  
-<?php  
-include "config/hub.php";  
-$q = $hub->query("select * from notes");  
-
+index.php
 {% highlight html %}
-foreach($q as $r){ ?>  
+<?php
+include "config/hub.php";
+$q = $hub->query("select * from notes");
+
+foreach($q as $r){ ?>
 
 <p>
 <?php echo nl2br( $r['content'] ); ?>
 </p>
 
-<?php  
-}  
-?>  
+<?php
+}
+?>
 
-<form method='POST' action='op/add.php'>  
-	<textarea name='text'></textarea>  
-	<input type='submit'>  
+<form method='POST' action='op/add.php'>
+	<textarea name='text'></textarea>
+	<input type='submit'>
 </form>
 {% endhighlight %}
 The example above to create the mysql php project on Ubuntu should work well.
