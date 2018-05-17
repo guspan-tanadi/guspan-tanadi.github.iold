@@ -38,15 +38,20 @@ include "config/hub.php";
 $q = $hub->query("select * from notes");  
 
 foreach($q as $r){ ?>  
+{% highlight html %}
 <p>
+{% endhighlight %}
 <?php echo nl2br( $r['content'] ); ?>
+{% highlight html %}
 </p>
-
+{% endhighlight %}
 <?php  
 }  
 ?>  
+{% highlight html %}
 <form method='POST' action='op/add.php'>  
 	<textarea name='text'></textarea>  
 	<input type='submit'>  
-</form>  
+</form>
+{% endhighlight %}
 The example above to create the mysql php project on Ubuntu should work well.
