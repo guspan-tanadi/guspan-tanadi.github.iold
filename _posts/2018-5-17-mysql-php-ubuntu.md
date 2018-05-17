@@ -19,7 +19,7 @@ Write the host as localhost not 127.0.0.1
 To add or insert data using prepared statement.  
 op/add.php  
 <?php  
-$text = $_POST['text'];    
+$text = $_POST['text'];  
 
 include "../config/hub.php";  
 
@@ -37,15 +37,15 @@ index.php
 p{
 background-color:#9d3
 }
-</style>
+</style>  
 <?php  
 include "config/hub.php";  
 $q = $hub->query("select * from notes");  
 
 foreach($q as $r){ ?>  
-<p>  
+<p>
 <?php echo nl2br( $r['content'] ); ?>
-</p>  
+</p>
 
 <?php  
 }  

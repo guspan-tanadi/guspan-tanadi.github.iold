@@ -37,15 +37,15 @@ index.php
 p{
 background-color:#9d3
 }
-</style>
+</style>  
 <?php  
 include "config/hub.php";  
 $q = $hub->query("select * from notes");  
 
 foreach($q as $r){ ?>  
-<p>  
+<p>
 <?php echo nl2br( $r['content'] ); ?>
-</p>  
+</p>
 
 <?php  
 }  
