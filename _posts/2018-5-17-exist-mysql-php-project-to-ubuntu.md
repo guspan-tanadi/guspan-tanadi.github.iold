@@ -19,12 +19,16 @@ For the folder permission the Folder access will be
 Access files  
 Access files
 
+![for folder](/images/Folderaccess.png "Access files")
+
 For each file permission the Access will be  
 Read-only  
 Read-only
 
+![on file](/images/fileAccess.png "Read-only")
+
 Then it can be access via localhost.
-Otherwise, the mistaken on the CMS the system itself.
+Otherwise, the mistaken on your system the CMS itself.
 
 For example, if there are .htaccess make sure
 the file there and can be used.
