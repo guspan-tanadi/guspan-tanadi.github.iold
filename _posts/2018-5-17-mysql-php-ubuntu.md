@@ -33,11 +33,6 @@ header("Location:/opnote/");
 The table inside note7 is notes. The fields are kd as int primary key auto_increment and content as text. It is wise if you want to add timestamp field.  
 Showing data and the form.  
 index.php  
-<style>
-p{
-background-color:#9d3
-}
-</style>  
 <?php  
 include "config/hub.php";  
 $q = $hub->query("select * from notes");  
