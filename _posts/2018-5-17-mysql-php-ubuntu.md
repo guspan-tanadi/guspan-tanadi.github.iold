@@ -3,7 +3,9 @@ layout: post
 title: Creating Mysql PHP project on Ubuntu
 date: 2018-5-17
 ---
-This using Ubuntu 12.04 to run mysql php project either by creating one or already run the project on Windows.
+This using Ubuntu 12.04 to run mysql php project either by creating one
+or [already]({% post_url 2018-5-17-exist-mysql-php-project-to-ubuntu %})
+run the project on Windows.
 
 These one by create it on Ubuntu.  
 The project place on File System > var > www  
