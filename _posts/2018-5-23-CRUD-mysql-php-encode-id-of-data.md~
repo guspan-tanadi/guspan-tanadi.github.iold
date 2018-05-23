@@ -3,7 +3,10 @@ layout: post
 title: CRUD MySQL PHP Encode ID of Data
 date: 2018-5-23
 ---
-The next of [other post]({% post_url 2018-5-17-mysql-php-ubuntu %}).
+The next of [other post]({% post_url 2018-5-17-mysql-php-ubuntu %}).  
+For the security reason, the id of each data from database can be encode.
+By the use of base64 encode then decode it when need to show the real id.
+The id not on client.
 Some changes are:
 
 index.php
@@ -79,7 +82,7 @@ echo $d['content'];
 </form>
 {% endhighlight %}
 
-op/add.php not in used. Instead it would be
+op/add.php not in used. Instead, it would be
 op/index.php
 
 {% highlight php %}
