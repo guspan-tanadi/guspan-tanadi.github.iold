@@ -6,10 +6,11 @@ date: 2018-5-23
 
 The digital offline dictionary is just as a need. As it is often used.
 
-There are KBBI, English to Indonesian and Indonesian to English.
+There are KBBI, English to Indonesian, and Indonesian to English.
 
-On Windows, Ebta Setiawan software called Kamus2 to translate both Indonesian to English also English to Indonesian. He also have
-KBBI offline that is often in used.
+On Windows, Ebta Setiawan software called Kamus2 to
+translate both Indonesian to English also English to Indonesian.
+He also have KBBI offline that is often in used.
 
 The lack is: they are seperate program.
 
@@ -17,7 +18,8 @@ On Ubuntu there are gkamus just like Kamus2 but support on Ubuntu.
 The small window will not disturb other window of program.
 
 Stardict just as must be used. Since KBBI, English to Indonesian,
-and Indonesian to English in just one software.
+and Indonesian to English in just one software. Stardict is available
+on Ubuntu Software Center.
 
 The database are here:
 
