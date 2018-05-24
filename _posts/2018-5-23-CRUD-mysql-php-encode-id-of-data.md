@@ -4,9 +4,10 @@ title: CRUD MySQL PHP Encode ID of Data
 date: 2018-5-23
 ---
 The next of [other post]({% post_url 2018-5-17-mysql-php-ubuntu %}).  
-For the security reason, the id of each data from database can be encode.
+Of Inspect Element, user can manipulate the id of a data.
+Which make wrong action to the data.
 By the use of base64 encode then decode it when need to show the real id.
-The id of each data not on client.
+The id of each data, client not know.
 Some changes are:
 
 index.php
