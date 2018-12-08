@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Ritual or Grateful
-date: 2018-12-08
+date: 2018-12-8
 ---
 
 At the morning when you wake up, there are two paradigm.
