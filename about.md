@@ -19,7 +19,7 @@ A [list](https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Direct
 
 ### Pedestrian
 
-Spend each day for 6500 step.
+Spend each day for 6500 steps.
 
 ### Thinker
 
