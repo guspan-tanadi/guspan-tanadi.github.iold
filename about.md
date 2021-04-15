@@ -17,10 +17,10 @@ Sometimes at the [Wikipedia](https://en.wikipedia.org/wiki/Special:Contributions
 
 A [list](https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Directory/Description/WikiProject_Linguistics&oldid=828050802#Active_Subject-Area_Editors) include me on linguistic subject.
 
-### Robot
+### Pedestrian
 
-They have become boss then will control you. Here is your dad or only you noticed. Living in finding other people mistake.
+Spend each day for 6500 step.
 
-### Egoistically
+### Thinker
 
-Everyone is individualist.
+Keep the act conscious.
