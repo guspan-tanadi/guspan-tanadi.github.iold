@@ -19,8 +19,8 @@ A [list](https://en.wikipedia.org/w/index.php?title=Wikipedia:WikiProject_Direct
 
 ### Pedestrian
 
-Spend each day for 6500 steps.
+Spend each day for 6.500 steps.
 
 ### Thinker
 
-Keep the act conscious.
+Be philosophically, do you have time for such ? At least keep any act in conscious.
